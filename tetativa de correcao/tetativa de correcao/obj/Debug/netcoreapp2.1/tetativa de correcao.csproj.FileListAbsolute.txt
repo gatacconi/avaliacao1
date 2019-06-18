@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\bin\Debug\netcoreapp2.1\tetativa de correcao.deps.json
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\bin\Debug\netcoreapp2.1\tetativa de correcao.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\bin\Debug\netcoreapp2.1\tetativa de correcao.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\bin\Debug\netcoreapp2.1\tetativa de correcao.dll
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\bin\Debug\netcoreapp2.1\tetativa de correcao.pdb
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\obj\Debug\netcoreapp2.1\tetativa de correcao.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\obj\Debug\netcoreapp2.1\tetativa de correcao.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\obj\Debug\netcoreapp2.1\tetativa de correcao.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\obj\Debug\netcoreapp2.1\tetativa de correcao.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\obj\Debug\netcoreapp2.1\tetativa de correcao.dll
+C:\Users\Treinamento 2\source\repos\tetativa de correcao\tetativa de correcao\obj\Debug\netcoreapp2.1\tetativa de correcao.pdb
